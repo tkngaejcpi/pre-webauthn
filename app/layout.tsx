@@ -12,7 +12,7 @@ const emojiFont = Noto_Color_Emoji({ subsets: ["emoji"], weight: "400" });
 export const metadata: Metadata = {
   title: "Pre-WebAuthn",
   description:
-    "Register with WebAuthn, and obtain your ready-made credential id and public key for your own purposes",
+    "Register with WebAuthn, then obtain your ready-made credential id and public key for your own purposes",
   icons: "/favicon.svg",
 };
 
